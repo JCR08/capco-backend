@@ -11,7 +11,7 @@ app.use(cors());
 app.get('/', function(req, res, next) {
   res.json([
     {name: "Mickey", imageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Mickey_Mouse.png/220px-Mickey_Mouse.png"},
-    {name: "Minnie", imageUrl: "https://cdn.shopify.com/s/files/1/0054/4371/5170/products/FiGPiN_M15_Minnie_Mouse_MICKEY_MOUSE_FRIENDS_PIN-01-01-01_grande.png?v=1539210907"},
+    {name: "Minnie", imageUrl: "https://i.pinimg.com/originals/58/29/c3/5829c3e6e7437daac35272ab75cae2cc.png"},
     {name: "Donald", imageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Donald_Duck.svg/220px-Donald_Duck.svg.png"},
     {name: "Daisy", imageUrl: "https://vignette.wikia.nocookie.net/disney/images/6/67/Daisy_Duck_transparent.png/revision/latest?cb=20160508175748"},
     {name: "Goofy", imageUrl: "https://vignette.wikia.nocookie.net/disney/images/2/27/Goofy_transparent.png/revision/latest?cb=20170426165903"},
