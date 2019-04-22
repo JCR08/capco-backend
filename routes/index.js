@@ -27,7 +27,7 @@ app.get('/', function(req, res, next) {
     {name: "Jiminy Cricket", imageUrl: "https://www.disneyclips.com/imagesnewb/images/jiminy-cricket10.png"},
     {name: "Winnie the Pooh", imageUrl: "http://www.stickpng.com/assets/thumbs/5954b848deaf2c03413be33b.png"},
     {name: "Stich", imageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/220px-Stitch_%28Lilo_%26_Stitch%29.svg.png"},
-    {name: "Mushu", imageUrl: "https://www.disneyclips.com/imagesnewb/images/mushu5.png"},
+    {name: "Mushu", imageUrl: "https://www.disneyclips.com/imagesnewb/images/mushu5.png"}
   ])
 });
 
