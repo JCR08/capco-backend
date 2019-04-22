@@ -19,7 +19,7 @@ app.get('/', function(req, res, next) {
     {name: "Clarabelle", imageUrl: "https://upload.wikimedia.org/wikipedia/en/e/ed/Clarabelle_Cow.png"},
     {name: "Horace", imageUrl: "https://upload.wikimedia.org/wikipedia/en/d/d8/Horace_Horsecollar.png"},
     {name: "Pete", imageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Peg-Leg_Pete.png/220px-Peg-Leg_Pete.png"},
-    {name: "Genie", imageUrl: "https://www.pinclipart.com/picdir/middle/135-1359866_genie-disney-aladdin-genie-png-clipart.png"},
+    {name: "Genie", imageUrl: "https://www.disneyclips.com/imagesnewb/images/genie3.png"},
     {name: "Panchito Pistoles", imageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Panchito_Pistoles.png/200px-Panchito_Pistoles.png"},
     {name: "Jose Carioca", imageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Jos%C3%A9_Carioca.png/220px-Jos%C3%A9_Carioca.png"},
     {name: "Launchpad McQuack", imageUrl: "https://vignette.wikia.nocookie.net/disney/images/9/9b/Croppedimage318436-jetmcquackintera.png/revision/latest?cb=20140724152301"},
